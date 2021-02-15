@@ -1,13 +1,18 @@
 * {
   box-sizing: border-box;
   list-style-type: none;
-  text-decoration: none; }
+  text-decoration: none;
+}
 
 .container {
   width: 80%;
-  margin: auto; }
-
+  margin: auto;
+}
+.yaya {
+  display: inline;
+}
 button {
-  display: flex; }
+  display: flex;
+}
 
 /*# sourceMappingURL=style.css.map */
